@@ -1,0 +1,8 @@
+[01-Apr-2021 10:07:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in F:\xampp\htdocs\Scrap\errorlog.php:13
+Stack trace:
+#0 {main}
+  thrown in F:\xampp\htdocs\Scrap\errorlog.php on line 13
+[01-Apr-2021 10:08:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in F:\xampp\htdocs\Scrap\errorlog.php:13
+Stack trace:
+#0 {main}
+  thrown in F:\xampp\htdocs\Scrap\errorlog.php on line 13
